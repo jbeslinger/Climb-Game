@@ -58,3 +58,24 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Asset Files
+climb_world1_demo_Data
+Library
+obj
+ProjectSettings
+UnityPackageManager
+UnityPlayer.dll
+Assets/animations
+Assets/fonts
+Assets/Import
+Assets/materials
+Assets/music
+Assets/physics
+Assets/Resources
+Assets/scenes
+Assets/sfx
+Assets/sprites
+Assets/Standard Assets
+Assets/Tilemap
+*.controller
+*.anim
